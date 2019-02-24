@@ -1,3 +1,5 @@
+ [![Travis build status](https://travis-ci.org/amgiraldi/farspkg.svg?branch=master)](https://travis-ci.org/amgiraldi/farspkg)
+
 # farspkg Info
 
 This package contains five functions that help you use the dataset [Fatality Analysis Reporting System](https://www.nhtsa.gov/Data/Fatality-Analysis-Reporting-System-(FAR)) from the US National Highway Traffic Safety Administration.
