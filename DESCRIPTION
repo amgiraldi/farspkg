@@ -1,12 +1,12 @@
 Package: farspkg
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Fatality Analysis Reporting System (FARS) Functions
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
+Author: Antonio M. Giraldi <giraldi.antonio@gmail.com>
+Maintainer: Antonio M. Giraldi <giraldi.antonio@gmail.com>
+Description:Functions for importing and analysing data from FARS
     Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+License:NA
 Encoding: UTF-8
 LazyData: true
 Suggests: 
