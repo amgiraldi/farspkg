@@ -1,0 +1,19 @@
+---
+title: "fars_map_state"
+author: "Antonio M. Grialdi"
+date: "February 16, 2019"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Plots the points of the accidents reported in the data set by location
+
+This function plots a point at the location where the accidents reported for each year
+happened. You must provide the year and the state where you want to plot the accidents.
+It may be the case that there were no accidents reported in a state for a given year. 
+In that case there will not be any points to plot. Also, the number rovided for the
+state must be in the desrired range, otherwise you'll get an error if the number given
+to the function is not associated with a particuar state. 
