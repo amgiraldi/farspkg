@@ -4,13 +4,18 @@ Title: Fatality Analysis Reporting System (FARS) Functions
 Version: 0.1.0
 Author: Antonio M. Giraldi <giraldi.antonio@gmail.com>
 Maintainer: Antonio M. Giraldi <giraldi.antonio@gmail.com>
-Description:Functions for importing and analysing data from FARS
-    Use four spaces when indenting paragraphs within the Description.
-License:NA
+Description: Functions for importing and analysing data from FARS
+License: GPL-3
 Encoding: UTF-8
 LazyData: true
+Imports:
+    readr,
+    dplyr,
+    tidyr,
+    maps
 Suggests: 
     knitr,
-    rmarkdown
+    rmarkdown, 
+    testhat
 VignetteBuilder: knitr
 RoxygenNote: 6.1.1
