@@ -15,7 +15,6 @@ Imports:
     maps
 Suggests: 
     knitr,
-    rmarkdown, 
-    testhat
+    rmarkdown
 VignetteBuilder: knitr
 RoxygenNote: 6.1.1
