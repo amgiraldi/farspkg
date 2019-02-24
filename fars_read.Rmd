@@ -1,0 +1,16 @@
+---
+title: "fars_read"
+author: "Antonio M. Grialdi"
+date: "February 16, 2019"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Reads a dataset into R
+
+This function read an existing file in your directory and convert it into a
+data table in R. Keep in mind that the file to be imported into R must be in
+your directory, otherwise you may get an error.
