@@ -18,6 +18,6 @@ data table in R. Keep in mind that the file to be imported into R must be in
 your directory, otherwise you may get an error.
 }
 \examples{
-fars_read(accident_2013)
+fars_read(accident_2014)
 
 }
